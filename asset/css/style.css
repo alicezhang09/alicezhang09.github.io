@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow|Oswald:400,300);
-@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
 
 /*------------------------------------------*/
 /*	     01 - General & Basic Styles
@@ -311,7 +311,7 @@ ul.social-list li a:hover i {
 }
 
 a.navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Julius Sans One";
     font-size: 40px;
     padding-top: 20px;
     color: #ff432e !important;
