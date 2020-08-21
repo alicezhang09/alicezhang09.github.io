@@ -5,11 +5,6 @@ I customized an HTML template called Sulfur to make it my own. Along the way I l
 [my Github](https://github.com/alicezhang09)
 [my LinkedIn](https://linkedin.com)
 
-
-<img src="https://cloud.githubusercontent.com/assets/10640964/24956690/a0bc5d7e-1faa-11e7-814c-a29a9b6aa8e8.jpg" alt="Free bootstrap business template by themefisher">
-
-**NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/themefisher) to keep you update with this template.
-
 ## Demo & Download 
 
 A fully functional demo is available at <a href="http://demo.themefisher.com/demos/?theme=sulfur">Demo</a>
