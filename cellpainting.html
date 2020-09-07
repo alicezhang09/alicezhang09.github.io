@@ -186,11 +186,18 @@
 				that had been subjected to 
 				different chemical perturbations. The pipelines produced allow for rapid and inexpensive cell profiling, and the extracted data sets can provide important 
 				information about the cells' morphology. This internship allowed me to cultivate skills in data analysis, algorithm implementation, and data visualization. 
-				I've provided a brief overview of the project and the roles I played. More in depth information about my work can be found here: <a href="latex.html">Technical Documentation.</a></h4></p>
+				I've provided a brief overview of the project. More in depth information about my work can be found here: <a href="latex.html">Technical Documentation.</a></h4></p>
+			
+			<p class = "post-content"> Cell painting begins with image analysis. Using CellProfiler, illumnination correction functions were calculated to account for uneven lighting. Once these functions have been applied to the image sets, cells can be identified and segmented.The pipeline I developed identified cells, nuclei, and cytoplasm, and extracted approximately 1500 features from each of these objects. In addition, image quality features were measured for image level quality control. Images with unacceptable saturation or intensity were excluded from further analysis.</p>
         		
 			<div class="post-img">
-                        <img src="asset/images/blog/noodles.gif" class="img-responsive" alt="Blog image">
+                        <img src="asset/images/IC function 1.jpg" class="post-img" alt="Blog image">
                         </div>		
+			<p class = "post-content"> Using the features extracted, cell level quality control can be performed. Several statistics methods were used to identify and evaluate outliers. For example, cells that had calculated areas over a certain threshold were excluded. Shape and area features were focussed on for this step because of their visualizable nature and our predefined understanding of cell sizes. Other features involving microenvironment and texture can be quite abstract and are more difficult to interpret.</p>
+			
+			<div class="post-img"><img src = "asset/images/Area.png" class="post-img" alt="Blog image"></div>
+			
+			<p class = "post-content"></p>
    
 			    
                     </div>
@@ -232,13 +239,13 @@
                         <div class="media">
                             <div class="media-left">
                                 <a href="#">
-                                    <img class="media-object" src="asset/images/love.gif" alt="...">
+                                    <img class="media-object" src="asset/images/blog/love.gif" alt="...">
                                 </a>
                             </div>
                             <div class="media-body">
-                                <h4 class="media-heading"><a href="2Danimation.html">@D Animation</a></h4>
+                                <h4 class="media-heading"><a href="2Danimation.html">2D Animation</a></h4>
                                 <ul>
-                                    <li>August 31, 2020</li>
+                                  <li>August 31, 2020</li>
                                 </ul>
                             </div>
                         </div>
